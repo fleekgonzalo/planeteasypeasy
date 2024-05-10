@@ -1,7 +1,7 @@
 baseURL = "https://lightbi-hugo-theme.netlify.app/"
 DefaultContentLanguage = "en"
 languageCode = "en-us"
-title = "Planet EasyPeasy2"
+title = "Planet EasyPeasy"
 theme = "lightbi-hugo"
 summaryLength  = "30"
 metaDataFormat = "yaml"
