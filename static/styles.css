@@ -1,5 +1,5 @@
 /* =================================================================== 
- * Mike Turko Stylesheet
+ * Mike Turko Stylesheet Planet EasyPeasy
  * Template Ver. 1.0.0
  * 01-15-2024
  * ------------------------------------------------------------------*/
@@ -31,4 +31,24 @@ blockquote {
   border-width:4px!important
 	
 }
+
+.dot {
+  height: 20px;
+  width: 20px;
+  /*background-color: #50BFE6;*/
+   background-image: linear-gradient(to top,#50BFE6, #4deeea);
+  border-radius: 50%;
+  display: inline-block;
+ box-shadow: 0px 0px 2px 4px #f000ff;
+ border-style: solid;
+  border-color: cyan;
+  border-width:2px 1px 1px 2px;
+
+}
+
+
+
+.star{color: red; font-size:15px;}
+
+.navbar-brand{color: navy}
 
