@@ -4,6 +4,7 @@ date: 2020-01-01
 tags: ["stoicism"]
 image : "/img/posts/img-0.jpg"
 Description  : "Who am I ?! This is the most asked question in my life. Yet no clear answer has yet been found. As a child, the answer..."
+weight: 
 ---
 Who am I ?! This is the most asked question in my life. Yet no clear answer has yet been found.
 
